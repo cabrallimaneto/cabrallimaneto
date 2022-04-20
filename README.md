@@ -2,7 +2,7 @@
 
 - 🔭 Fiz essa conta para subir meus estudos e projetos
 - 🌱 Sou estudante de ADS
-- 😎 Estudo HTML5, CSS3, JavaScript, MySQL durante o dia e enteresse em aprender também React, Vue.js e outras coisas.
+- 😎 Estudo HTML5, CSS3, JavaScript, MySQL durante o dia e tenho interesse em aprender também React, Vue.js e outras coisas.
 - 🤔 Na Faculdade estamos focado em PHP e Python
 
 <div style="display: inline_block"><br>
